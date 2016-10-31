@@ -1,0 +1,8 @@
+assets/*
+node_modules/*
+typings/
+typings.json
+typings.d.ts
+tsconfig.json
+systemjs.builder.js
+gulpfile.js
