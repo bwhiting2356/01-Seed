@@ -1,5 +1,6 @@
-assets/*
-node_modules/*
+app/**/*.js
+app/**/*.map
+node_modules/
 typings/
 typings.json
 typings.d.ts
